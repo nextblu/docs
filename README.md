@@ -1,5 +1,5 @@
 ---
-description: Here you can find documentation for every project part of NextBlu core.
+description: 'Docs, info and tutorial for every project running on NextBlu'
 ---
 
 # NextBlu
