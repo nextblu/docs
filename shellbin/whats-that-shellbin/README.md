@@ -24,7 +24,7 @@ ShellBin is available in two versions:
 
 Here you can find quick tutorials and informations about this project:
 
-{% page-ref page="./" %}
+{% page-ref page="lets-use-the-web-version.md" %}
 
-{% page-ref page="./" %}
+{% page-ref page="the-shellbin-cli.md" %}
 
