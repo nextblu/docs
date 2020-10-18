@@ -12,7 +12,7 @@ TentaLog has been designed to be used immediately after installation. We propose
 
 The Tentacle is the single unit of TentaLog, managing a single logger. To start logging with tentacle you can do something like this:
 
-```text
+```python
 from tentalog import Tentacle
 
 tentacle = Tentacle(name='mylogger')

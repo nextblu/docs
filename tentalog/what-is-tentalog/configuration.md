@@ -6,7 +6,7 @@ description: Explore sample configurations and explaination on how we manage our
 
  If you want to use a custom configuration you can just initialize your Tentacle in this way:
 
-```text
+```python
 tentacle = Tentacle(path='myconf.yaml')
 ```
 
@@ -14,7 +14,7 @@ tentacle = Tentacle(path='myconf.yaml')
 
 Here a quick look at _default\_configuration.yaml_
 
-```text
+```yaml
 version: 1
 disable_existing_loggers: false
 

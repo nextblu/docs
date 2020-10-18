@@ -10,7 +10,7 @@ You can find TentaLog package on [PyPi](https://pypi.org/project/tentalog/).
 
 To install TentaLog in your environment you can simply type
 
-```text
+```bash
 pip install tentalog
 ```
 
