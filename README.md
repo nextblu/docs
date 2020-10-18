@@ -1,2 +1,2 @@
-# docs
-MD doc for every NextBlu project
+# Initial page
+
